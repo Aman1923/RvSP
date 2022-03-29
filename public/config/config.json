@@ -7,7 +7,7 @@
     "ID": 1
   },
   "NFT_NAME": "Rock vs Paper Scissors NFT",
-  "SYMBOL": "RPS NFT",
+  "SYMBOL": "RvSP NFT",
   "MAX_SUPPLY": 690,
   "WEI_COST": 69000000000000000,
   "DISPLAY_COST": 0.069,
