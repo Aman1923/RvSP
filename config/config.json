@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEFA38C54415cc993AD36405C53E74ee87af179Cd",
+  "SCAN_LINK": "https://etherscan.io/address/0xefa38c54415cc993ad36405c53e74ee87af179cd",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Rock vs Paper Scissors NFT",
+  "SYMBOL": "RPS NFT",
+  "MAX_SUPPLY": 690,
+  "WEI_COST": 69000000000000000,
+  "DISPLAY_COST": 0.069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea after someone mints",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/rvsps-nft",
+  "SHOW_BACKGROUND": true
+}
