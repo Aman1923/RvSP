@@ -12,7 +12,7 @@
   "WEI_COST": 69000000000000000,
   "DISPLAY_COST": 0.069,
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opensea after someone mints",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/rvsps-nft",
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
   "SHOW_BACKGROUND": true
 }
