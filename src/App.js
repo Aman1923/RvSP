@@ -426,7 +426,7 @@ function App() {
               color: "var(--primary-text)",
             }}
           >
-            We'll be making a rock vs paper scissor game, it's gonna be epic (maybe).
+            We'll be making a rock vs paper scissor AR app, it's gonna be epic.
             Then we'll add some more value, metaverse or some shit.
             The most ambitious project ever since etherrock ofc.
           </s.TextDescription>
