@@ -94,6 +94,9 @@ export const StyledLink = styled.a`
   text-decoration: none;
 `;
 
+                 // Only relevant for 2 days, maybe 3. except mic shinoda 1, that's timeless.
+                 // Didn't do mic tyson. Pretty sure he'd sue. Maybe that's why I should. Hmmmmmmmm
+
 function App() {
   const dispatch = useDispatch();
   const blockchain = useSelector((state) => state.blockchain);
@@ -298,8 +301,7 @@ function App() {
                 <s.TextDescription
                   style={{ textAlign: "center", color: "var(--accent-text)" }}
                 >
-                 // Only relevant for 2 days, maybe 3. except mic shinoda 1, that's timeless.
-                 // Didn't do mic tyson. Pretty sure he'd sue. Maybe that's why I should. Hmmmmmmmm
+                  Discussing 10-100x baggers in the alpha-rock channel.
                  Endgame is to make a humongous collaborative movie of nfts - kinda like the nft chip n dale 
                 </s.TextDescription>
                 <s.SpacerSmall />
